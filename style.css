@@ -1,0 +1,110 @@
+#container{
+	width: 1300px;
+}
+
+#header {
+	width: 1300px;
+	height: 100px;
+	position: relative;
+	background-color: peru;
+	border-bottom: 2px solid #000000;
+	
+}
+#header a{
+	color: #ffffff;
+	text-decoration: underline;
+	front-weight: bold;
+	front-family: Verdana;
+	frot-size: 14px;
+}
+
+#header a:visit {
+	color: #000000;
+	text-decoration: underline;
+	front-weight: bold;
+}
+
+#header a:hover {
+	color: #cc0000;
+	text-decoration: none;
+	front-weight: bold;
+}
+
+#header p {
+	color:saddlebrown;
+	font-family:Arial;
+	font-weight:bold;
+	font-size: 60px;
+	text-align:center;
+	
+}
+
+
+
+#leftnav{
+	float: left;
+	width: 300px;
+	height: 1200px;
+	background-color: #F8AA3C;
+	border-right:1px dashed #694717;
+}
+
+#rightnav{
+	float: right;
+	width: 300px;
+	height: 1200px;
+	background-color: #F8AA3C;
+	border-left: 1px dashed #694717;
+	
+	
+}
+
+#body{
+	
+	width: 700px;
+	
+	margin-left:301px;
+	margin-right:301px;
+}
+
+#body p {
+	color:saddlebrown;
+	font-family:Arial;
+	font-weight:bold;
+	font-size: 18px;
+	text-align:center;
+	
+}
+
+
+#footer{
+		clear:both;
+		height: 80px;
+		background-color: #D1C0A7;
+}
+
+
+
+
+
+
+
+
+
+.Horizlink {
+	position:absolute; top: 77px; left:180px;
+}
+
+.Horizlink ul{
+	margin:0px;
+}
+.Horizlink li{
+	margin:0px 15px 0px 0px;
+	list-style-type:none;
+	display: inline;
+	
+}
+
+
+
+
